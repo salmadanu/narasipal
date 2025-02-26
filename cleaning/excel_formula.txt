@@ -1,0 +1,18 @@
+# Detik
+=IF(
+    ISNUMBER(C2353);
+    TEXT(C2353; "yyyy-mm-dd hh:mm:ss");
+    TEXT(DATEVALUE(LEFT(C2353;LEN(C2353)-6)) + TIMEVALUE(RIGHT(C2353;5)); "yyyy-mm-dd hh:mm:ss")
+)
+
+Months to standardize
+Agu, Okt, Des, Mei,
+
+Cleaning Steps:
+1. Replace month names
+2. Erase " WIB"
+
+
+# CNN
+20250225073838-142-1202056
+2025-02-25 
