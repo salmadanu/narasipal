@@ -16,3 +16,8 @@ Cleaning Steps:
 # CNN
 20250225073838-142-1202056
 2025-02-25 
+=MID(A2, FIND("202", A2), 8)
+
+Cleaing & Normalization Steps
+- ilangin judul bahas inggris
+
