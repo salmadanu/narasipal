@@ -22,6 +22,6 @@ Narasipal is a dataset of Indonesian news headlines from 6 major news outlets, c
 - ```tanggal_publikasi```
 
 ## Word Cloud of LDA Results (6 topics)
-
+![Word Cloud of LDA Results for 6 topics](word-cloud-6-topics.png)
 
  
